@@ -1,14 +1,14 @@
 # ASP.NET MVC 5 vs Node.js / Express 4
 
-## What is this?
+### What is this?
 
 Load testing with [Loader.io](https://loader.io)
 
-## Versions and configurations
+### Versions and configurations
 
 Please see source code for exact versions and settings.
 
-## Deployment
+### Deployment
 
 Both web apps have been deployed as Microsoft Azure Web Apps. 
 
@@ -21,7 +21,7 @@ Both web apps have been deployed as Microsoft Azure Web Apps.
   - Edit in Visual Studio online: On
   - Everything else left as default
 
-## Test results
+### Test results
 
 ![ASP.NET MVC load test results](https://raw.githubusercontent.com/adam-szabo/aspnetvsnode/master/images/aspnet.png)
 
